@@ -1,5 +1,5 @@
 # Vector-animation
-Vector graphic animations used in my MusicPlayer application
+Vector graphic animations used in my MusicPlayer project
 
 # Use in Android Studio
 1. Repeat same animation
